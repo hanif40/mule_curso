@@ -92,7 +92,7 @@
                         <password>${password}</password>
                         <applicationName>${rtf.app.name}</applicationName>
                         <target>${deployment.target}</target>
-                        <environment>sandbox</environment>
+                        <environment>Sandbox</environment>
                         <businessGroupId>${business.group.id}</businessGroupId>
                         <provider>MC</provider>
                         <replicas>1</replicas>
